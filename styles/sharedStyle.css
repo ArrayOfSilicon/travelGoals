@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@700&family=Open+Sans:wght@400;500&display=swap');
+
+body{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+}
+
+/* list style will be applied on ol or ul */
+#headContainer{
+   
+    width: 1000px;
+}
+#mainLogo a{
+    font-family: 'Oleo Script',cursive;
+    padding: 10px;
+    font-size: 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #ae2012;
+    text-shadow: 1px 1px 2px #ca6702;
+
+} 
+#mainLogo{
+    width: 400px;
+}
+ul{
+   
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
